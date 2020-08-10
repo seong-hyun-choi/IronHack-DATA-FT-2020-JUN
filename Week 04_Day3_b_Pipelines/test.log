@@ -1,0 +1,6 @@
+2020-07-03 03:27:33.319 INFO <ipython-input-15-cdfba73ca343> - <module>: Testing - this log should go to a file.
+2020-07-03 03:54:59.862 INFO <ipython-input-30-cdfba73ca343> - <module>: Testing - this log should go to a file.
+2020-07-03 03:57:09.128 INFO <ipython-input-38-30c6b1ed8c84> - <module>: Writing corona_01_22_2020 to database.
+2020-07-03 03:57:09.187 INFO <ipython-input-38-30c6b1ed8c84> - <module>: corona_01_22_2020 written successfully.
+2020-07-03 11:58:46.772 INFO <ipython-input-30-cdfba73ca343> - <module>: Testing - this log should go to a file.
+2020-07-03 11:58:47.460 INFO <ipython-input-37-80c7189911e7> - <module>: Table corona_01_22_2020 already in our database
